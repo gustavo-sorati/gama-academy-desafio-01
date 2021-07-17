@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom';
 import { Card } from '../../components/Card';
-import { Confete } from '../../components/Confete';
 
 import styles from './styles.module.scss';
 
