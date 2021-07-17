@@ -1,4 +1,3 @@
-import React, { useState } from 'react'
 import {AiFillCloseCircle} from 'react-icons/ai';
 import {BiMailSend} from 'react-icons/bi';
 import { Confete } from './Confete';
